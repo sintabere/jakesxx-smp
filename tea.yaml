@@ -2,5 +2,7 @@
 ---
 version: 1.0.0
 codeOwners:
+  - '0x2105F4E134E3ef5991080D99d08fc0253163546b'
   - '0x6edA5ec0aDB617D8A662eA5FCD57655FEA69aFB9'
-  quorum: 1
+  - '0xACF81a8d19Fe2eA8773b5205B25EcFa97EA087b7'
+quorum: 1
